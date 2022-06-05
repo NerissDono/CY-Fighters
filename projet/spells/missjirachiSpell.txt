@@ -1,0 +1,3 @@
+chant de réconfort
+missjirachi réconforte ses alliés en chantant une berceuse qui les soignent d'un pourcentage de leurs PVs et augmente leurs défenses
+4 0 2 0 0 0 1 0 1 30 0 0

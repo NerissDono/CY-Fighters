@@ -1,0 +1,3 @@
+star platinum
+jotaro utilise son esprit guerrier pour infliger une déferlante de coups sur sa cible, ce qui lui inflige des dégats et baisse sa défense
+5 0 3 0 0 170 1 1 0 0 0 0

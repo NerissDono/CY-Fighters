@@ -1,0 +1,3 @@
+lancer de carte
+david lafarge lance une pluie de cartes "Ex" tranchantes sur tous les adversaires, et leur inflige à tous des dégats sévères
+3 0 2 1 0 130 0 1 0 0 0 0
